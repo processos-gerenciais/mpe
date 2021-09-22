@@ -1,2 +1,3 @@
-# sucessao_familiar_mpe
-Processos de sucessão familiar em micro e pequenas empresas.
+# Processos de Sucessão Familiar em Micro e Pequenas Empresas
+
+(em breve)
